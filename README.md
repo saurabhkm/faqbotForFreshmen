@@ -1,5 +1,5 @@
 # FAQ Bot Keras
-FAQ Bot using Keras and Flask
+A simple FAQ Bot built with Keras and Flask.
 
 ## Requirements
 1) Tensorflow
