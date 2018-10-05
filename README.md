@@ -20,5 +20,5 @@ python server.py
 ```
 Head over to the url in the output which will be http://127.0.0.1:5000 in a browser and start conversing
 
-References:
+#### References:
 More on stemming: https://nlp.stanford.edu/IR-book/html/htmledition/stemming-and-lemmatization-1.html
